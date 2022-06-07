@@ -8,6 +8,10 @@ This site was built using [GitHub Pages](https://summerjay0401.github.io/urban-o
 
 [GitHub Repository](https://summerjay0401.github.io/urban-octo-telegram.git)
 
-# Screenhots
+## Screenshots
+
+# Desktop View
 ![Desktop View](./screenshots/desktop%20view.png)
+
+# Responsive View
 ![Responsive View](./screenshots/responsive%20view.png)
